@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Remtaine</h1>
 <h3 align="center">An aspiring web developer and hobby gamedev!</h3>
 
-<p align="left"> <a href="https://twitter.com/remtaine" target="blank"><img src="https://img.shields.io/twitter/follow/remtaine?logo=twitter&style=for-the-badge" alt="remtaine" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript and Tailwind CSS**
 
 - 💬 Ask me about **website development**
