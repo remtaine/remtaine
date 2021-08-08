@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Remtaine</h1>
-<h3 align="center">An aspiring web developer and hobby gamedev!</h3>
+<h3 align="center">An aspiring web developer and hobby game developer!</h3>
 
 - 🌱 I’m currently learning **Javascript and Tailwind CSS**
 
