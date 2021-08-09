@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Remtaine</h1>
 <h3 align="center">An aspiring web developer and hobby game developer!</h3>
 
-- 🌱 I’m currently learning **Javascript and Tailwind CSS**
+- 🌱 I’m currently learning **Tailwind CSS**
 
 - 💬 Ask me about **website development**
 
