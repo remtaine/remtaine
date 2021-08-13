@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Remtaine</h1>
-<h3 align="center">An aspiring web developer and hobby game developer!</h3>
+<h1 align="center">Hi 👋, I'm Ben</h1>
+<h3 align="center">An aspiring web developer and hobby game developer (going by the name Remtaine)!</h3>
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
