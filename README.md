@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **making mobile games**
 
-- 👨‍💻 All of my game projects are available at [remtaine.com](remtaine.com) or [remtaine.itch.io](https://remtaine.itch.io/)
+- 👨‍💻 All of my game projects are available at [remtaine.com](https://remtaine.com/) or [remtaine.itch.io](https://remtaine.itch.io/)
 
 - 📫 You can reach me at **remtaine@gmail.com**
 
