@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">An aspiring web developer and hobby game developer (going by the name Remtaine)!</h3>
+<h3 align="center">A web developer and hobby game developer (going by the name Remtaine)!</h3>
 
 - 🌱 I’m currently learning **NextJS**
 
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **making mobile games**
 
-- 👨‍💻 All of my game projects are available at [remtaine.itch.io](https://remtaine.itch.io/)
+- 👨‍💻 All of my game projects are available at [remtaine.com](remtaine.com) or [remtaine.itch.io](https://remtaine.itch.io/)
 
 - 📫 You can reach me at **remtaine@gmail.com**
 
